@@ -1,12 +1,12 @@
 # hotelautomation
-Installation:
-Clone repository
-Goto cloned parent directory
-Run npm install in command prompt
-Wait for downloading completion
-Run npm start in command prompt
+Installation: <br>
+Clone repository <br>
+Goto cloned parent directory <br>
+Run npm install in command prompt <br>
+Wait for downloading completion <br>
+Run npm start in command prompt <br>
 
-Demo:
-Commant section displays initial display
-Change move value in input.json like false to true
-Look at commmand prompt value change
+## Demo:
+Commant section displays initial display <br>
+Change move value in input.json like false to true <br>
+Look at commmand prompt value change <br>
