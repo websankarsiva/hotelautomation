@@ -2,9 +2,9 @@
 Installation: <br>
  - Clone repository <br>
  - Goto cloned parent directory <br>
- - Run npm install in command prompt <br>
+ - Run __npm install__ in command prompt <br>
  - Wait for downloading completion <br>
- - Run npm start in command prompt <br>
+ - Run __npm start__ in command prompt <br>
 
 ## Demo:
  - Open command prompt displays <br>
@@ -13,5 +13,5 @@ Installation: <br>
 
 ## Test:
  - Open command prompt <br>
- - Run npm test in command prompt <br>
+ - Run __npm test__ in command prompt <br>
  - Look at commmand prompt test case success msg <br>
