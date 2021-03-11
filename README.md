@@ -1,4 +1,4 @@
-# hotelautomation
+# Hotel automation
 Installation: <br>
  - Clone repository <br>
  - Goto cloned parent directory <br>
