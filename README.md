@@ -27,7 +27,7 @@ Floor.js consist of main output logic and power calculation code is written.
 
 Each Floor object has a list of main and sub corridors assests per floor.
 
-HotelAssets consist of the total Floor objects from the hotel.
+HotelAssets.js consist of the total Floor objects from the hotel.
 
 
 
