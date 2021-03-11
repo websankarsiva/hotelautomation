@@ -7,6 +7,11 @@ Installation: <br>
  - Run npm start in command prompt <br>
 
 ## Demo:
- - Commant section displays initial display <br>
+ - Open command prompt displays <br>
  - Change move value in input.json like false to true <br>
  - Look at commmand prompt value change <br>
+
+## Test:
+ - Open command prompt <br>
+ - Run npm test in command prompt <br>
+ - Look at commmand prompt test case success msg <br>
