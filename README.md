@@ -1,8 +1,10 @@
 # Hotel automation
+
 ### Prerequisite
 - Node (12.16)
 - npm (6.3.4)
-Installation: <br>
+
+## Installation: <br>
  - Clone repository <br>
  - Goto cloned parent directory <br>
  - Run __npm install__ in command prompt <br>
