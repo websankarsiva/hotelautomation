@@ -1,0 +1,19 @@
+{
+    "floor1": {
+        "subcorridor1": {
+            "move" : false   
+        },
+        "subcorridor2": {
+            "move" : false       
+        }             
+    },
+
+    "floor2": {
+        "subcorridor1": {
+            "move" : false   
+        },
+        "subcorridor2": {
+            "move" : false       
+        }   
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "no_of_floors": 2,
+    "no_of_corridor_main": 1,
+    "no_of_corridor_sub": 2,
+    "assets": {
+        "corridor_main": {
+            "light": {
+                "state": "on",
+                 "power": 5,
+                "track": true               
+            },
+            "ac": {
+                "state": "on",
+                "power": 10,
+                "track": true                   
+            }         
+        },
+        "corridor_sub": {
+            "light": {
+                "state": "off",
+                "power": 5,
+                "track": true                            
+            },
+            "ac": {
+                "state": "on",
+                "power": 10,
+                "track": true                            
+            }
+        }
+    }
+
+}

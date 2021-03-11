@@ -1,0 +1,45 @@
+ // employee.js
+const Model = require("./base.js");
+
+ class HotelAssets extends Model {
+   get defaults() {
+     return {
+        no_of_floors: "2",
+        no_of_corridor_main: "1",
+        no_of_corridor_sub: "2",
+        assetsmin : {
+            light: {
+                state: "on",
+                count: 1,
+                power: 5,
+                track: true               
+            },
+            ac: {
+                state: "on",
+                count: 1,
+                power: 10,
+                track: true                   
+            }
+        },
+        assetssub : {
+            light: {
+                state: "off",
+                count: 1,
+                power: 5,
+                track: true               
+            },
+            ac: {
+                state: "on",
+                count: 1,
+                power: 10,
+                track: true                   
+            }
+        },        
+     };
+   }
+
+ }
+
+module.exports = HotelAssets;  
+
+ 
